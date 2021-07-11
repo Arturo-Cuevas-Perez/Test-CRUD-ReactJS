@@ -17,6 +17,12 @@ Se instalaron estas dependencias para una mejora visual y funcional:
 <br/>
 -jquery (Se uso para manipular los parametros sencillamente)
 
+<br/>
+<br/>
+
+Demo:
+https://crud-react-arturwebdev.netlify.app/
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # Getting Started with Create React App
