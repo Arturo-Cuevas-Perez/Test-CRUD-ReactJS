@@ -1,3 +1,24 @@
+# Practica CRUD consumiendo una API con ReactJs
+
+# Objetivo:
+Crear página con la funcionalidad de realizar un CRUD de usuarios consumiendo las siguientes APIs. Realizando la documentación correspondiente tanto en código como en un archivo para el despliegue.
+Lo cual se cumplio con el objetivo.
+
+
+Se instalaron estas dependencias para una mejora visual y funcional:
+
+-axios
+<br/>
+-boostrap
+<br/>
+-reactstrap
+<br/>
+-fontawesome
+<br/>
+-jquery (Se uso para manipular los parametros sencillamente)
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
